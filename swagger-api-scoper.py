@@ -19,13 +19,6 @@ https://github.com/PortSwigger/swagger-parser
 
 OpenAPI based web-services documentation
 https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md
-
-Schema: http://bank-rcpt-pymt.sage.com.br/v2/swagger/docs/v1
-Endpoints: http://bank-rcpt-pymt.sage.com.br/v2/swagger/ui/index/
-
-Thu Jun  1 14:40:20 2017
-borja.ruiz@pentest.co.uk
-Pentest Limited (c) 2017
 """
 
 import argparse
